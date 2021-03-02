@@ -1,8 +1,10 @@
 # Introducacão programação em Python3
 
 ### Material adpatado da página da Unicamp:
+
 https://www.ic.unicamp.br/~mc102/#material-did%C3%A1tico
-Disciplina: MC102 - Algoritmos e Programação de Computadores
+
+- Disciplina: MC102 - Algoritmos e Programação de Computadores
 
 * Conceitos Básicos sobre Algoritmos e Programação;
 * Entrada e Saída de Dados;
