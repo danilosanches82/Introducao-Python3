@@ -17,4 +17,4 @@ https://www.ic.unicamp.br/~mc102/#material-did%C3%A1tico
 * Arquivos;
 * Expressões Regulares;
 * Tópicos Avançados;		
-* Projeto;		 
+* Soluções validadas na plataforma URI e Rosalind.		 
